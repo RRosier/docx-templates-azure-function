@@ -1,0 +1,12 @@
+{
+  "name": "docx-template-azure-function",
+  "version": "1.0.0",
+  "description": "Azure function to parse a docx template with data using the docx-templates library.",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "Ronald Rosier",
+  "dependencies": {
+    "docx-templates": "^4.6.0"
+  }
+}
